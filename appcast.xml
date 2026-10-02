@@ -4,13 +4,13 @@
         <title>Keepsake Updates</title>
         <language>en</language>
         <item>
-            <title>Version 1.0.4</title>
-            <description><![CDATA[<h2>Keepsake 1.0.4</h2><ul><li>Clearer download steps</li></ul>]]></description>
-            <pubDate>Fri, 02 Oct 2026 19:46:59 +0000</pubDate>
+            <title>Version 1.0.5</title>
+            <description><![CDATA[<h2>Keepsake 1.0.5</h2><ul><li>Comments spreadsheet shows when, what, and which album</li></ul>]]></description>
+            <pubDate>Fri, 02 Oct 2026 19:51:22 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TwentyElevenLLC/keepsake-releases/releases/download/v1.0.4/Keepsake-1.0.4.zip"
-                sparkle:version="5" sparkle:shortVersionString="1.0.4"
-                sparkle:edSignature="LMMy1j/pEdCWq7sYjsptu9prRDWcWy1yySs/ojpRUTI80ZJTNq30v2dNp36VRvIzs/kU01XLJjuEFTjWxJ1DBw==" length="2133057" type="application/octet-stream" />
+            <enclosure url="https://github.com/TwentyElevenLLC/keepsake-releases/releases/download/v1.0.5/Keepsake-1.0.5.zip"
+                sparkle:version="6" sparkle:shortVersionString="1.0.5"
+                sparkle:edSignature="rLme31a2nvxAEbqZIm+D9WQvZCbudzRn43uEF35sQBqAXQk82Sl9RJ7FRlDRqhlWfmsLx838Ql+zKjsqUW7uAw==" length="2137058" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
