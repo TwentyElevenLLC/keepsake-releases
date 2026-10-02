@@ -4,13 +4,13 @@
         <title>Keepsake Updates</title>
         <language>en</language>
         <item>
-            <title>Version 1.0.8</title>
-            <description><![CDATA[<h2>Keepsake 1.0.8</h2><ul><li>Screenshots and other undated photos keep their original date everywhere</li></ul>]]></description>
-            <pubDate>Fri, 02 Oct 2026 20:32:38 +0000</pubDate>
+            <title>Version 1.0.9</title>
+            <description><![CDATA[<h2>Keepsake 1.0.9</h2><ul><li>Remembers where you left off after an update</li></ul>]]></description>
+            <pubDate>Fri, 02 Oct 2026 20:38:33 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TwentyElevenLLC/keepsake-releases/releases/download/v1.0.8/Keepsake-1.0.8.zip"
-                sparkle:version="9" sparkle:shortVersionString="1.0.8"
-                sparkle:edSignature="FfMOYhuOk6yWGCMpVgWkdcaDxM5lsovo4jAMRkJZPr4qIpXJP+3RXOW4yU66nL4csrnQVIaO3Q8S7QKzxSjvBA==" length="2223318" type="application/octet-stream" />
+            <enclosure url="https://github.com/TwentyElevenLLC/keepsake-releases/releases/download/v1.0.9/Keepsake-1.0.9.zip"
+                sparkle:version="10" sparkle:shortVersionString="1.0.9"
+                sparkle:edSignature="vfKx+lmh3NHDwCnjNyuCB7GtrpMR/4/BmfJceHinF+m02K9xCPw6db1TnU+dqRc5S8Hy9L6MmWro+8/SJdioDQ==" length="2226025" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
