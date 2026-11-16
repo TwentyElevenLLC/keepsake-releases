@@ -4,13 +4,13 @@
         <title>Keepsake Updates</title>
         <language>en</language>
         <item>
-            <title>Version 1.0.10</title>
-            <description><![CDATA[<h2>Keepsake 1.0.10</h2><ul><li>Clearer button for the next round</li></ul>]]></description>
-            <pubDate>Fri, 02 Oct 2026 20:43:09 +0000</pubDate>
+            <title>Version 1.0.11</title>
+            <description><![CDATA[<h2>Keepsake 1.0.11</h2><ul><li>Needs much less free space: about the size of your photos plus a little room to work</li></ul>]]></description>
+            <pubDate>Mon, 16 Nov 2026 03:25:50 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TwentyElevenLLC/keepsake-releases/releases/download/v1.0.10/Keepsake-1.0.10.zip"
-                sparkle:version="11" sparkle:shortVersionString="1.0.10"
-                sparkle:edSignature="VQ1YL1v3GnqlZCroXR8XaRvV76f1D18Iu+fS92t5NHDeAaY6yL+us8p5eFRPBXsVNsVNJ8uYuxeaPiCj+8DTBw==" length="2226009" type="application/octet-stream" />
+            <enclosure url="https://github.com/TwentyElevenLLC/keepsake-releases/releases/download/v1.0.11/Keepsake-1.0.11.zip"
+                sparkle:version="12" sparkle:shortVersionString="1.0.11"
+                sparkle:edSignature="fWiIQbfzv1A6H9XaoiXr/DSeVcb6SAqrh3KsWARplgAtv/e9fxx6167igAyhaiAqtwWqjfLCtgJCtqXIVoRvAA==" length="2360692" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
