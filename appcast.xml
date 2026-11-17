@@ -4,13 +4,13 @@
         <title>Keepsake Updates</title>
         <language>en</language>
         <item>
-            <title>Version 1.0.11</title>
-            <description><![CDATA[<h2>Keepsake 1.0.11</h2><ul><li>Needs much less free space: about the size of your photos plus a little room to work</li></ul>]]></description>
-            <pubDate>Mon, 16 Nov 2026 03:25:50 +0000</pubDate>
+            <title>Version 1.0.12</title>
+            <description><![CDATA[<h2>Keepsake 1.0.12</h2><ul><li>Photos that came in without a date now get the date they were taken, once you confirm every file is here</li></ul>]]></description>
+            <pubDate>Tue, 17 Nov 2026 19:25:37 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TwentyElevenLLC/keepsake-releases/releases/download/v1.0.11/Keepsake-1.0.11.zip"
-                sparkle:version="12" sparkle:shortVersionString="1.0.11"
-                sparkle:edSignature="fWiIQbfzv1A6H9XaoiXr/DSeVcb6SAqrh3KsWARplgAtv/e9fxx6167igAyhaiAqtwWqjfLCtgJCtqXIVoRvAA==" length="2360692" type="application/octet-stream" />
+            <enclosure url="https://github.com/TwentyElevenLLC/keepsake-releases/releases/download/v1.0.12/Keepsake-1.0.12.zip"
+                sparkle:version="13" sparkle:shortVersionString="1.0.12"
+                sparkle:edSignature="jT/dAIQ2MQAifYbeoyib+I3AMjC8+wa2yu6lNLSySnHIVIz5ZNtGlo0jAcGPRjcLRaPdMrBtEFY/GOPNQ/HrBg==" length="2442926" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
